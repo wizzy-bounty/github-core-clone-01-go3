@@ -1,5 +1,9 @@
 # Anvil-Go v3 — GitHub-compatible git forge
 
+[![make.fun](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/c/github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/wizzy-bounty/github-core-clone-01-go3/rank.svg)](https://make.fun/c/github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/wizzy-bounty/github-core-clone-01-go3/reward.svg)](https://make.fun/c/github-core-clone-01)
+
 A clean-rebuild Go implementation of a GitHub-compatible git forge: smart-HTTP
 git transport (protocol v0 + v2), REST API under `/api/v3`, GraphQL at
 `/api/graphql`, and MCP at `/mcp` — all in-memory, single static binary, zero
